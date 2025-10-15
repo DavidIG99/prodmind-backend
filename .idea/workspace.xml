@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23909ef5-27bd-47ed-bca8-ff18e9d8b32a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../Programación a fondo/Base de datos/prodmind/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Programación a fondo/Base de datos/prodmind/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Programación a fondo/Base de datos/prodmind/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Programación a fondo/Base de datos/prodmind/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Programación a fondo/Base de datos/prodmind/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Programación a fondo/Base de datos/prodmind/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Programación a fondo/Base de datos/prodmind/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Programación a fondo/Base de datos/prodmind/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Programación a fondo/Base de datos/prodmind/src/main/java/com/prodmind/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +33,13 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "onboarding.tips.debug.path": "/Users/davididarragagiraldo/Library/CloudStorage/OneDrive-Personal/Personal/Programación a fondo/Base de datos/prodmind/src/main/java/com/prodmind/Main.java"
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/davididarragagiraldo/Library/CloudStorage/OneDrive-Personal/Personal/Programación a fondo/Base de datos/prodmind/src/main/java/com/prodmind/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="TaskManager">
@@ -39,16 +51,5 @@
       <updated>1760567776556</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../../../Programación a fondo/Base de datos/prodmind/src/main/java/com/prodmind/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
